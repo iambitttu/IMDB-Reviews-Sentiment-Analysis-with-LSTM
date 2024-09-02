@@ -6,7 +6,7 @@ This Notebook contains code for sentiment analysis on IMDB movie reviews using L
 
 - **IMDB Dataset**: The dataset used in this project consists of 50,000 IMDB movie reviews, evenly split into 25k reviews for training and 25k for testing. Each review is labeled as either positive or negative.
 
-- **LSTM**: Long Short-Term Memory networks are a type of recurrent neural network (RNN) architecture capable of learning long-term dependencies in sequential data. They are particularly well-suited for tasks involving sequences like text data.
+- **LSTM**: Long Short-Term Memory Networks are a type of recurrent neural network (RNN) architecture capable of learning long-term dependencies in sequential data. They are particularly well-suited for tasks involving sequences like text data.
 
 ## Getting Started
 
